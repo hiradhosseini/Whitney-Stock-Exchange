@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Whitney Stock Exchange!
 
-You can use the [editor on GitHub](https://github.com/hiradhosseini/WhitneyStockExchangeSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are commited to teaching you the essentials of finance, investing, and personal accounting in order to bring you the financial literacy that every citizen can benefit from! 
 
 ### Markdown
 
