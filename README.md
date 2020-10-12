@@ -9,11 +9,8 @@ We are commited to teaching you the essentials of finance, investing, and person
 - Teach basics of opening custodial broker account
 
 ## Meeting Times
-2nd and 4th Wednesday of each Month (During Lunch) 
-Join our Google Classroom:[Link] (https://classroom.google.com/c/MTY5MTM5MzQ2NzNa?cjc=ypq44ak)
+2nd and 4th **Wednesday** of each Month (_During Lunch_) 
+Join our Google Classroom: [Link] (https://classroom.google.com/c/MTY5MTM5MzQ2NzNa?cjc=ypq44ak)
 
-
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
